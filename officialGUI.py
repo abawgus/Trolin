@@ -7,11 +7,34 @@ import textwrapS as textwrap
 class GUI(object):
 	def __init__(self):
 		pygame.init()
-		self.endPrompt = False
-		self.l = False
-		self.sleep=False
+		self.endPrompt = False #if the day has ended, prompt with sleep option
+		self.l = False #if in a lecture or not
+		self.sleep=True #moniters if character has slept the previous night
+		
+		#Lecture numbers for each class
+		self.oie=1
+		self.oielec1=0
+		self.oielec2=0
+		self.oielec3=0
+		
+		self.dn=1
+		self.dnlec1=0
+		self.dnlec2=0
+		self.dnlec3=0
+		
+		self.modcon=1
+		self.modconlec1=0
 		self.modconlec2=0
+		self.modconlec3=0
+		
+		self.modsim=1
+		self.modsimlec1=0
+		self.modsimlec2=0
+		self.modsimlec3=0
+		
 		self.classnum=0  #number of classes you've had today
+		self.day=1 #the day of the week
+
 		#makes the GUI screen & sets the top caption
 		self.background = pygame.display.set_mode((920,800))
 		#self.character = pygame.display.set_mode()
@@ -19,7 +42,7 @@ class GUI(object):
 		
 		#needed variables
 		self.userinput = []
-		self.text = 'Welcome to Olin!'
+		self.text = 'Welcome to Olin!' #Intro Screen Settings
 		self.text2 = ''
 		self.text3 = ''
 		self.text4 = ''
@@ -44,7 +67,7 @@ class GUI(object):
 		self.inputrect.center = (35, 768)
 
 		while True:	#main game loop
-			self.background.fill(BLUE)		#makes white bg
+			self.background.fill((47,79,79))		#makes white bg
 			pygame.draw.rect(self.background, BLACK, (10, 580, 900, 160))	#makes dialogue box
 			pygame.draw.rect(self.background, BLACK, (10, 750, 900, 40))	#makes black textbar
 			self.background.blit(self.inputthings, self.inputrect)		#inputs '>>'
@@ -153,7 +176,6 @@ class GUI(object):
 			self.text4 = ''
 			self.text5 = ''
 			
-			print self.endPrompt, self.classnum
 			if self.endPrompt:
 				print firstword
 				if firstword =='1':
@@ -161,11 +183,13 @@ class GUI(object):
 					self.endPrompt = False
 					self.url='dorm.jpg'
 					self.classnum=0
+					self.day=self.day+1
 				elif firstword == '2':
 					self.sleep = False
 					self.endPrompt = False
 					self.url='lounge.jpg'
 					self.classnum = 0
+					self.day=self.day+1
 				else:
 					self.text="Answer the goddamn question"
 			print self.endPrompt, self.classnum		
@@ -189,7 +213,7 @@ class GUI(object):
 						self.modconlec2 =0
 						self.classnum=self.classnum+1
 				elif ls1[len(ls1)-1] == False:
-					if modconlec2 == len(ls1)-1:
+					if self.modconlec2 == len(ls1)-1:
 						#print 'met condit lesson over'
 						self.l=False
 						self.classnum=self.classnum+1
@@ -204,7 +228,7 @@ class GUI(object):
 			if j == 0:
 				pass	#later turn into "continue" for conversation?
 			else:
-				if self.classnum ==1:
+				if self.classnum ==2:
 					self.text="Well that was an event-filled day. What do you want to do? (1) Go to bed and get some rest before your classes (2) Stay up, you're at college for fucks sake"
 					self.endPrompt = True
 				firstword = self.thefinalstring[0]
