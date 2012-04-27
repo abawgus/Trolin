@@ -1,0 +1,43 @@
+Variables to keep track of in script:
+
+SleepPrevious (Boolean)
+
+OIE essay completed (Boolean)
+
+ModCon complete (Boolean) -- Triggers ModCon Bear Event is False
+
+SleepDep Counter (Int) -- If reaches 3, miss first class next day
+
+NumOfStuff done -- if reaches 2 (doesn't count classes) ask sleep prompt.
+			if negative, trigger sleep when == 3
+
+
+Side Quest List: (5)
+
+Lost Prox Card (Email Trigger)
+
+Crawford on Campus (Freshman Diaglouge Trigger)*
+
+
+Open World Events:
+
+Work on DESNAT
+Work on MODCON
+Work on MODSIM
+Work on OIE
+
+LapTag ?
+
+
+
+
+
+
+Other Events:
+
+ModCon bear at night (forced sleep afterward, triggered by incomplete modcon assignment)
+
+
+
+
+*Include Lounge as a location? Talk to other freshman to trigger events or let player know about quests

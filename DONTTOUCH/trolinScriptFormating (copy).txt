@@ -1,0 +1,198 @@
+Day 1:
+
+-Tutorial Segment-
+
+-Open World Segment-
+
+Avaliable tasks -Talk to Random Freshman, Emails (none at this point), Dining Hall(?), 
+
+After command -goto class- that Sibb( Other Student?) mentions...
+
+You check your schedule to discover that you have two classes each day. Today seems to be Design Nature and Modeling and Control... whatever those are. Welp, there's no point in dilly-dallying, off to class!
+
+-Lec 1 of Design Nature & Modcon-
+
+
+Well that was an exciting first day! But wait, there's still friends to be made... You want to stay awake and make friends, but you do have class at... 9 am goddamn it. What do you do? (1) Stay up in lounge (2) Go to bed and get some rest
+
+
+Day 2:
+
+-Open World-
+
+-Lect 2 for ModCon- 
+
+-Open World-
+
+-Lect 1 for ModSim
+
+-Side quest 1 & 2 become avaliable
+
+Go to sleep early or stay up? (1) Go to Sleep Early (2) Stay up
+
+
+Day 3:
+
+-Open World-
+
+-Lect 1 for OIE 
+
+Lect 2 for Design Nature-
+
+-Open World
+
+-Sidequest 3 becomes avaliable
+
+
+Day 4:
+
+-Open World-
+
+-Lect 2 for ModSim 
+
+Lect 2 for OIE-
+
+-Open World
+
+-Activities: Do OIE essay
+
+-Sidequest 4 becomes avaliable
+
+Day 5:
+
+-Open World-
+
+-Lect 3 for ModSim 
+
+Lect 3 for ModCon-
+
+-Open World
+
+-Activities: Do OIE essay
+
+-Sidequest 5 becomes avaliable
+
+Day 6:
+
+-Open World-
+
+-Lect 3 for OIE
+
+Lect 3 for Design Nature-
+
+-Open World
+
+Day 7:
+
+-Open World-
+
+Final Exam
+
+-Ending Sequence-
+
+
+
+
+Design Nature Lectures:
+
+Lecture 1:
+
+
+
+Lecture 2:
+
+
+
+Lecture 3:
+
+
+
+
+
+ModSim lec:
+
+Lecture 1:
+
+-Introduce Faculty
+-Introduce project  , Catapult Works
+
+Lecture 2:
+
+-Studio Time
+
+Lecture 3:
+
+	Work on it Option
+
+
+
+	BS'ed it Option
+
+-You're model, as it turns out, has broken physics and now gravity is rapidly pulling eveyone into the sun! Oh well, it was a fun semester you think to yourself as you corpse burns for eternity.
+
+
+Modcon lec:
+
+Lecture 1:
+
+-Introduce Lab work
+
+Hello, I'm Brain Storey, and Welcome to Mod Khaaaaaaaan. For  
+
+Lecture 2:
+
+Storey: Welcome to Modcon! Today's lesson will cover...
+
+
+	Sleep option
+
+-As the lecture begins you stay attentive as the transitions flow effortlessly through your brain. Yes yes it makes sense that e^jwt is the same as expressing this with sin and cos! You leave the class triumphant, with only a twinge of regret that you sacrificed so much of your evening yesterday
+
+
+	No Sleep Option
+
+-As the lecture begins you feel the fatigue of the previous day weighing on you. You thought 4 hours of sleep would be enough to keep yourself together for at least one lecture. But the chairs... now so soft, your eyes heavy... What do you do?
+
+
+(1) Keep yourself awake by taking notes rigorously
+
+-You try to keep attentive, but as the lecture briefly driftes into topics of naming monkeys and theory you couldn't hope to understand this fatigued you become increasingly more interested in your artistic abilities. Soon, you look up, happy with your zebra-penguin hybrid and lost as to how all the complex notations got there. You attempt to recover, but now the lecture has ended. Ah well, at least you have something to put on your wall. 
+
+
+
+(2) Drift off into a bliss-filled nap
+
+	You awaken an hour and 40 mins later to the sound of awkward applause your class has made mandatory at the end of each sentence. Now you feel well rested enough for your next class which is at... 3:20, what are you going to do until then?
+
+Lecture 3:
+
+
+
+
+
+
+OIE Lecture
+
+Lecture 1:
+
+-You attend the first lecture which seems like a nice warm feelings-jam, which in retrospect was not what you wanted to do with all the work you should be doing. You decide that maybe you can miss these classes without consequences, but as a top-notch student could you even DREAM of such a thing?? Well, you have until next class to make that life changing decision.
+
+Lecture 2:
+
+-Well that was very informative about... dating culture or something. Fun times! (Did he mention an essay or something?)
+
+Lecture 3:
+
+Tartar: This has been a fantastic semester! It feels like barely a week has gone by. Turn in your essay in the front of the Room!
+
+-Oh God that essay.
+
+	Did essay
+-Good thing you did your work, since apparently that essay was the only thing you needed to do to pass the class. Off to bigger and better things now!
+
+	Did not do essay
+-Well apparently that essay WAS important. Just about the only important thing you needed to do for this. Maybe I should talk to Nick Tartar? (1) Talk to Nick (2) Forget about this class, it's not like it mattered anyway
+
+Talk to Nick 
+
+Tartar: DIALOG STUFF (1) ask for extension (2) accepting your desire to not work, it's become a part of you know
