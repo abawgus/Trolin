@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 do What thou wilt shall be the whole of the law
+=======
+HELLO PEOPLE
+>>>>>>> 414c636df4aeb7127e14041bf05464f5a7e30d71
